@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<vendor name="D-Link">
+	<device name="DES-3828" protocol="snmp">
+		<ports>
+			<all>28</all>
+		</ports>
+		<oid>
+			<sysDescr>.3.6.1.2.1.1.1.0</sysDescr>
+			<sysUptime>.3.6.1.2.1.1.3.0</sysUptime>
+		</oid>
+	</device>
+</vendor>
